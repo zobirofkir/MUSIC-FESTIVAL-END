@@ -87,6 +87,6 @@ for download frontend you can use this command (ubuntu):
 git clone https://github.com/zobirofkir/FESTIVAL-FRONT.git
 
 ![Screenshot from 2023-08-27 22-47-36](https://github.com/zobirofkir/MUSIC-FESTIVAL-END/assets/135469129/6302f8dd-586d-4a75-9ae2-c1e9427b4c04)
-[Screencast from 08-27-2023 10:48:35 PM.webm](https://github.com/zobirofkir/MUSIC-FESTIVAL-END/assets/135469129/8e098c35-1fa3-47c7-b1ff-1ca80bd70a35)
+[Screencast from 08-27-2023 10:48:35 PM.webm](https://github.com/zobirofkir/MUSIC-FESTIVAL-END/assets/135469129/ddd67ae9-3cf7-4f01-8bc1-b3c3d1f622f4)
 
 
